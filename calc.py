@@ -1,7 +1,11 @@
-print("for add press 1")
-print("for sub press 2")
-'''user input leygay hum is variable '''
-print("select your menu: ")
+'''
+@author: shahroz461
+@desc: simple calculator
+'''
+
+print("For Addition press 1")
+print("For Subtraction press 2")
+print("Select Your Menu: ")
 username = input()
 
 print("Enter First value: ")
@@ -20,7 +24,4 @@ elif username=="2":
     print(d)
 
 else:
-
-    print("error: Select vslid input")
-
-
+    print("error: Select valid input")
