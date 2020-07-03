@@ -1,19 +1,20 @@
-print("for add press 1")
-print("for sub press 2")
-print("for multiplication press 3")
-print("for division press 4")
-'''user input leygay hum is variable '''
-print("select your menu: ")
-
-
 '''
 @author: shahroz461
 @desc: simple calculator
 '''
+print("<(\"\")")
+print(" ( )__")
+print("  \___/")
 
-print("For Addition press 1")
-print("For Subtraction press 2")
-print("Select Your Menu: ")
+print(" --.   ----")       
+print("|     /     \ ")
+print("|    / ----- \ ")
+print(" --'/         \ ")
+print("   /           \ ")
+print("for sub press 2")
+print("for multiplication press 3")
+print("for division press 4")
+print("select your menu: ")
 
 username = input()
 
@@ -41,9 +42,4 @@ elif username=="4":
     print(f)
 
 else:
-
     print("error: Select vslid input")
-
-
-
-    print("error: Select valid input")
